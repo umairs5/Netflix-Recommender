@@ -1,0 +1,10 @@
+sentence-transformers
+torch
+numpy
+pandas
+tqdm
+kagglehub
+gradio
+scikit-learn
+requests
+transformers
